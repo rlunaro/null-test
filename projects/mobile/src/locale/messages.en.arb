@@ -1,0 +1,98 @@
+{
+  "@@locale": "en",
+  "6828791699373395087": "Documentation of the project: created a docs folder to hold the documentation of the project",
+  "@6828791699373395087": {
+    "x-locations": [
+      {
+        "file": "projects/mobile/src/app/tab1/tab1.page.html",
+        "start": { "line": "19", "column": "29" },
+        "end": { "line": "19", "column": "121" }
+      }
+    ]
+  },
+  "5460256746566951783": "I18n: done, using the default angular localization support",
+  "@5460256746566951783": {
+    "x-locations": [
+      {
+        "file": "projects/mobile/src/app/tab1/tab1.page.html",
+        "start": { "line": "27", "column": "29" },
+        "end": { "line": "27", "column": "87" }
+      }
+    ]
+  },
+  "tab1.authentication": "authentication",
+  "4279050536710848226": "export to android: done, and localization works",
+  "@4279050536710848226": {
+    "x-locations": [
+      {
+        "file": "projects/mobile/src/app/tab1/tab1.page.html",
+        "start": { "line": "35", "column": "29" },
+        "end": { "line": "35", "column": "76" }
+      }
+    ]
+  },
+  "tab1.batchProject": "create a batch project",
+  "@tab1.batchProject": {
+    "x-locations": [
+      {
+        "file": "projects/mobile/src/app/tab1/tab1.page.html",
+        "start": { "line": "43", "column": "43" },
+        "end": { "line": "43", "column": "65" }
+      }
+    ]
+  },
+  "tab1.database": "database",
+  "@tab1.database": {
+    "x-locations": [
+      {
+        "file": "projects/mobile/src/app/tab1/tab1.page.html",
+        "start": { "line": "51", "column": "47" },
+        "end": { "line": "51", "column": "55" }
+      }
+    ]
+  },
+  "tab1.welcome-screen": "welcome screen (onboard slides)",
+  "@tab1.welcome-screen": {
+    "x-locations": [
+      {
+        "file": "projects/mobile/src/app/tab1/tab1.page.html",
+        "start": { "line": "59", "column": "45" },
+        "end": { "line": "59", "column": "76" }
+      }
+    ]
+  },
+  "7287288354851143278": "Add StoryBook ({$START_LINK}https://storybook.js.org/{$CLOSE_LINK})",
+  "@7287288354851143278": {
+    "x-locations": [
+      {
+        "file": "projects/mobile/src/app/tab1/tab1.page.html",
+        "start": { "line": "67", "column": "21" },
+        "end": { "line": "67", "column": "102" }
+      }
+    ]
+  },
+  "4266840611841106845": "notifications",
+  "@4266840611841106845": {
+    "x-locations": [
+      {
+        "file": "projects/mobile/src/app/tab1/tab1.page.html",
+        "start": { "line": "75", "column": "21" },
+        "end": { "line": "75", "column": "34" }
+      }
+    ]
+  },
+  "3763482421960183966": "tests",
+  "@3763482421960183966": {
+    "description": "this is some additional information",
+    "x-locations": [
+      {
+        "file": "projects/mobile/src/app/tab1/tab1.page.html",
+        "start": { "line": "83", "column": "67" },
+        "end": { "line": "83", "column": "72" }
+      }
+    ]
+  }, 
+  "auth.email": "Email", 
+  "auth.password": "Password", 
+  "auth.emailPassword": "Email and Password"
+}

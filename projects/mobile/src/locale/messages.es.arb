@@ -1,0 +1,16 @@
+{
+  "@@locale": "es",
+  "6828791699373395087": "Documentación del proyecto: creada una carpeta docs donde guardar la documentación del proyecto",
+  "5460256746566951783": "I18n: hecha, con el soporte de internacionalización de Angular",
+  "tab1.authentication": "authentication",  
+  "4279050536710848226": "exportación a android: hecha, y localización funciona",
+  "7287288354851143278": "Añadir storybook ({$START_LINK}https://storybook.js.org/{$CLOSE_LINK})",
+  "4266840611841106845": "notificaciones",
+  "3763482421960183966": "pruebas",
+  "@3763482421960183966": {
+    "description": "this is some additional information"
+  },
+  "tab1.batchProject": "TODO: create a batch project",
+  "tab1.database": "TODO: database",
+  "tab1.welcome-screen": "TODO: welcome screen (onboard slides)"
+}
