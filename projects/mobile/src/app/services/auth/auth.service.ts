@@ -38,8 +38,13 @@ export class AuthService {
       }else{
         console.log("USER IS NOT AUTHENTICATED ANYMORE");
       }
-    })
+    });
 
+    this.getRedirectResult();
+
+  }
+
+  getRedirectResult(){
     // to get the result of the google authentication 
     getRedirectResult( this.auth )
     .then( (someValue) => {
@@ -47,7 +52,6 @@ export class AuthService {
       console.log(someValue);
     })
     .catch( error => console.log(error));
-
   }
 
   signInWithEmailPassword( email: string, password: string ){
@@ -76,7 +80,8 @@ export class AuthService {
   }
 
   test() {
-    signInWithRedirect( this.auth, new GoogleAuthProvider() );
+    signInWithRedirect( this.auth, new GoogleAuthProvider() )
+    .then( (result) => console.log( "this is the result of the sign-in", result ));
     /*
     signInWithPopup( this.auth, new GoogleAuthProvider() )
     .then( (userCred) => {

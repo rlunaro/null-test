@@ -1,8 +1,9 @@
 
-
+.angular/
 node_modules/
 private/
 projects/mobile/src/environments/environment.desa.ts
-projects/mobile/src/environments/environment.ts
+projects/mobile/www
+
 
 
